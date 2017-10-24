@@ -8,3 +8,4 @@
 -   3.1 si no son iguakes regresa false
 -     3.2 si son iguales continumos comprando uno a uno
 - 4.Regresar true
+![Esta el la imagen del diagrama](Diagrama.jpg)
